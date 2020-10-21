@@ -5,3 +5,4 @@ matplotlib
 plotly
 dash
 jupyter_dash
+notebook
