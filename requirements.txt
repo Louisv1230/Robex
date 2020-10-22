@@ -7,3 +7,4 @@ dash
 jupyter_dash
 notebook
 jupyterlab
+voila
